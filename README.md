@@ -8,8 +8,8 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **JavaScript, HTML and CSS**
-- 💻 Building hands-on projects to turn theory into practice
+- 🌱 Currently learning **JavaScript**
+- 💻 Building projects to transform theory into practical skills
 - 🎯 Focused on becoming a **Front-end Developer**
 - 📍 Based in Brazil
 
@@ -22,35 +22,95 @@
 </p>
 
 ---
+### 📚 Learning Journey
 
-### 📌 Featured Projects
+This section tracks my progress as I learn web development through courses, challenges, and personal projects.
 
-🎮 **MyEsports**  
- A front-end project focused on tracking esports matches based on user interests. | HTML, CSS
+#### ✅ HTML & CSS Fundamentals
+
+Projects built to practice semantic HTML, responsive layouts, and styling:
+
+- 🎮 **MyEsports**
+- 🌏 **My Australia Journey**
+
+#### 🚧 JavaScript Fundamentals (Current Focus)
+
+Projects built to strengthen programming logic, DOM manipulation, functions, events, and problem solving:
+
+- 🔢 **Secret Number Game**
+- 🎲 **Random Number Generator**
+- 🤖 **Discord Bot**
+
+#### 🎯 Next Topics
+
+- DOM Manipulation (Advanced)
+- APIs and Asynchronous JavaScript
+- Responsive Interfaces
+- React
+
+---
+
+### 📌 Portfolio Projects
+
+#### 🎮 MyEsports
+Front-end project focused on tracking esports matches based on user interests.
+
+**Tech:** HTML, CSS
 
 👉 https://github.com/kamillamacedo/myesports
 
 ---
 
-🌏 **My Australia Journey**  
-Personal travel website inspired by a course project, redesigned to share my real journey in Australia with destinations, timeline, tips, and gallery. | HTML, CSS
+#### 🌏 My Australia Journey
+
+Personal travel website inspired by a course project, redesigned to share my real journey in Australia with destinations, timeline, tips, and gallery.
+
+**Tech:** HTML, CSS
 
 👉 https://github.com/kamillamacedo/my-australia-journey
 
 ---
 
-🔢 **Secret Number Game**  
-A simple interactive JavaScript game built to practice logic, DOM interaction, and user feedback. | HTML, CSS, JavaScript
+### 🧪 Study Projects
+
+Projects created specifically to reinforce concepts and practice new skills.
+
+#### 🔢 Secret Number Game
+
+Interactive game created while learning JavaScript fundamentals.
+
+**Tech:** HTML, CSS, JavaScript
 
 👉 https://github.com/kamillamacedo/secret-number-game
 
 ---
 
+#### 🎲 Random Number Generator
+
+JavaScript practice project focused on functions, user input, and randomization.
+
+**Tech:** HTML, CSS, JavaScript
+
+👉 https://github.com/kamillamacedo/random-number-generator
+
+---
+
+#### 🤖 Discord Bot
+
+Project created to practice JavaScript logic, events, and interaction with external platforms.
+
+**Tech:** JavaScript
+
+👉 https://github.com/kamillamacedo/valorant-bot
+
+---
+
 ### 📈 Currently Working On
 
-- Improving my JavaScript fundamentals  
-- Adding interactivity to my personal projects  
-- Building consistency in coding every week  
+- Deepening my JavaScript fundamentals  
+- Adding interactivity to my personal projects
+- Learning best practices with Git and GitHub  
+- Building consistency in coding 
 
 ---
 
